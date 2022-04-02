@@ -47,7 +47,7 @@ console.log("end");
 // end                   ===========> last line of code
 
 // below outputs are given to browers to process ,
-// \while the above outputs ar ecarrried out by javaScript
+// while the above outputs are carrried out by javaScript
 
 // .then() and .catch() methods are stored in MICROTASK QUEUE
 

@@ -36,7 +36,7 @@ mePromise()
     // return Promise.resolve(value);
     // both above and this statements are same
   })
-  .then((value) => [console.log(value)]);
+  .then((value) => console.log(value));
 
 //   5
 //   foo
